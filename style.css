@@ -1,0 +1,140 @@
+header{
+	background-color: white;
+	align-items: center;
+	justify-content: center;
+
+}
+body{
+	background-color: #fbfaf6;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+button{
+	background-color: lightblue;
+    padding: .2em .5em;
+    border: 2px solid #42cdb2;
+    background-color: #fff;
+    color: #544ebf;
+    box-shadow: 4px 4px 0 -2px #fff, 4px 4px 0 0 #42cdb2;
+    box-shadow: 4px 4px 0 -2px skyblue,4px 4px 0 0 #42cdb2;
+    cursor: pointer;
+    float: right;
+        margin-top: 12px;
+    margin-right: 4px;
+
+
+
+
+}h4{margin: 5px;
+font-size: 30px;
+}
+nav{
+	display: inline-block;
+}
+ul{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+}
+li{
+	display: flex;
+text-decoration: none;
+	margin: 16px;
+}
+footer{
+    display: block;
+    padding-right: 15px;
+    text-align: center;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+.footer{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+}
+
+.bg--blue-dark {
+    background-color: #21303b;
+
+}
+.container> a{
+margin: 10px;
+    padding: 10px;
+    color: white
+
+}
+
+.center-xs {
+    -ms-flex-pack: center;
+   
+}
+.row {
+    box-sizing: border-box;
+    display: flex;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    
+}
+
+.col-1{
+	background-color: #ff6c55;
+}
+.col-2{
+	background-color: #2275ff;
+}
+.col-3{
+	background-color: #fbc227;
+}
+.col-4{
+	background-color: #3ec445;
+}
+.col-5{
+	background-color: #ea3a3a;
+}
+.col-6{
+	background-color: #42cdb2;
+}
+.col-7{
+	background-color: #2275ff
+}
+.col-8{
+	background-color:#ff6c55 ;
+}
+.col-9{
+	background-color: #fa99b4;
+}
+.col-x{
+	background-color:#ea3a3a;
+}
+.col-xs{
+    background-color: #42cdb2
+}
+.md{
+	background-color: #3ec445;
+}
+.md-1{
+	background-color: #42cdb2;
+}
+.md-2{
+	background-color:  #2275ff;
+}
+
+.row >div{
+    height: 100px;
+    width: 300px;
+    margin: 1em;
+    text-decoration: none;
+    padding: 16px;
+}
+li>a{
+    color: blue
+}
